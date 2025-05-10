@@ -1,1 +1,1 @@
-# Photography-Booking-System
+# Photography Booking System
